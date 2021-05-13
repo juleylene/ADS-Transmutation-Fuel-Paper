@@ -1,6 +1,6 @@
 efit dose rate 
 c Single EFIT-like IM-fuel element for the outer zone for dose rate calculation
-c Calculation performed w/ modified cinder.dat (switch Am242* and Am242)
+c Calculation performed with modified cinder.dat (switch Am242* and Am242)
 c
 c University of Natural Resources and Life Science, Vienna (BOKU)
 c Institute for Safety and Risk Sciences
