@@ -140,7 +140,7 @@ STEP DECAY D 3652.5
 
 END
 
-MYRRHA safety+control rods lbe filled, 2 ips filled w/ efit-like fuel
+MYRRHA safety+control rods lbe filled, 2 ips filled with efit-like fuel
 c ! ===========================================================================
 c ! subcritical layout
 c ! core configuration according to [Leysen2012], [Sarotto2012], [Rossa2013]...
